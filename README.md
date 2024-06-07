@@ -35,3 +35,11 @@ To create an instance of a class (i.e., an object), you call the class using its
   
 Python uses indentation to indicate a block of code. Indentation is crucial in Python as it defines the level of nesting of statements. It typically consists of four spaces or a tab.
 
+* Docstring
+
+Added a docstring to the method to describe its purpose
+
+* The in Operator
+
+The in operator in Python is used to check if a value is present in a sequence (such as a string, list, tuple, or dictionary). It returns True if the value is found and False otherwise  
+
