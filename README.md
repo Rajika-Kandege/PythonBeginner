@@ -58,3 +58,15 @@ Variable Names: Variable names should be all lowercase with words separated by u
 * The sorted Function
 
 In Python, the sorted function is used to sort iterables like lists, tuples, and dictionaries. It returns a new sorted list while leaving the original iterable unchanged. The sorted function accepts an iterable as its argument and returns a sorted list.
+
+* The min and max Functions
+
+In Python, the min and max functions are used to find the minimum and maximum values, respectively, from an iterable (such as a list, tuple, or dictionary).
+
+* The min Function
+
+The min function returns the smallest element from the iterable.
+
+* The max Function
+
+The max function returns the largest element from the iterable.
