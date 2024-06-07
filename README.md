@@ -47,6 +47,10 @@ The in operator in Python is used to check if a value is present in a sequence (
 Naming conventions are important in Python to ensure your code is readable and maintainable. Here are some common conventions:
 
 File Names: File names should be all lowercase with words separated by underscores (e.g., my_module.py).
-Class Names: Class names should use the CapWords convention (also known as CamelCase). Each word should start with a capital letter, and no underscores should be used (e.g., MyClass).
+
+Class Names: Class names should use the CapWords convention (also known as CamelCase). 
+Each word should start with a capital letter, and no underscores should be used (e.g., MyClass).
+
 Method and Function Names: Method and function names should be all lowercase with words separated by underscores (e.g., my_function or my_method).
+
 Variable Names: Variable names should be all lowercase with words separated by underscores (e.g., my_variable).
