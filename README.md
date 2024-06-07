@@ -70,3 +70,20 @@ The min function returns the smallest element from the iterable.
 * The max Function
 
 The max function returns the largest element from the iterable.
+
+* Slicing
+
+ The notation [::] is called slicing in Python. Slicing is a powerful feature that allows you to extract a subset of elements from an iterable, such as a list, tuple, or string, based on specified indices or step values.
+
+When using slicing with just colons (:), it has the following format:
+
+[start:stop:step]
+
+Here's what each part means:
+
+start: The index where the slice starts (inclusive). If not specified, it defaults to the beginning of the iterable.
+stop: The index where the slice ends (exclusive). If not specified, it defaults to the end of the iterable.
+step: The step size or the increment by which the elements are selected. If not specified, it defaults to 1.
+So, when you see [::], it's a shorthand way of specifying a slice that includes all elements of the iterable, starting from the beginning, ending at the end, and with a step size of 1.
+
+When you want to reverse a list using slicing, you can use [::] with a negative step size, which means you start from the end and go towards the beginning. For example, [:: -1] reverses the list.
