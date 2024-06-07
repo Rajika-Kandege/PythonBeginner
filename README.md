@@ -3,7 +3,7 @@ Learning path of python for beginners
 
 # Python Basics
 
-# What is __init__?
+* What is __init__?
 The __init__ method is a special method in Python classes, commonly known as the constructor. It is automatically called when an instance of the class is created. This method is used to initialize the attributes of the class
 
 # What does self mean?
