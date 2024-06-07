@@ -54,3 +54,7 @@ Each word should start with a capital letter, and no underscores should be used 
 Method and Function Names: Method and function names should be all lowercase with words separated by underscores (e.g., my_function or my_method).
 
 Variable Names: Variable names should be all lowercase with words separated by underscores (e.g., my_variable).
+
+* The sorted Function
+
+In Python, the sorted function is used to sort iterables like lists, tuples, and dictionaries. It returns a new sorted list while leaving the original iterable unchanged. The sorted function accepts an iterable as its argument and returns a sorted list.
