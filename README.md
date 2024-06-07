@@ -31,3 +31,7 @@ Methods are functions defined within a class that describe the behaviors of the 
 
 To create an instance of a class (i.e., an object), you call the class using its name and pass any required parameters.  
 
+* Indentation
+  
+Python uses indentation to indicate a block of code. Indentation is crucial in Python as it defines the level of nesting of statements. It typically consists of four spaces or a tab.
+
